@@ -10,3 +10,9 @@ This looks cool
 $ git init
 print ("hello world")
 ```
+
+## To do list
+
+- [ ] Perfection in C++
+- [x] A new food recipe
+- [ ] Use less programming resources
